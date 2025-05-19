@@ -1,6 +1,7 @@
 # 👩🏻‍💻 Caroline Eugênio
 
-📍 Based in Portugal | 🎯 Transitioning to Technology 
+📍 Based in Portugal  
+🎯 Transitioning to Technology 
 💡 Student of Systems Analysis and Development 
 💻 Focus on Front-End, UX Writing and Applied Artificial Intelligence
 
