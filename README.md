@@ -1,32 +1,33 @@
 # 👩🏻‍💻 Caroline Eugênio
 
-📍 Baseada em Portugal | 🎯 Em transição para Tecnologia  
-💡 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Foco em Front-End, UX Writing e Inteligência Artificial aplicada
+📍 Based in Portugal | 🎯 Transitioning to Technology 
+💡 Student of Systems Analysis and Development 
+💻 Focus on Front-End, UX Writing and Applied Artificial Intelligence
 
 ---
 
-### 🧠 Sobre mim
+### 🧠 About me
 
-Sou apaixonada por construir experiências digitais com propósito e clareza.  
-Com background em hotelaria, eventos e vendas, trago para a tecnologia uma visão centrada no usuário, com estrutura e empatia.
+I am passionate about building digital experiences with purpose and clarity.
 
-Atualmente estudo:
-- HTML, CSS e JavaScript
-- Estrutura de sites e microcopy
-- Aplicações práticas de IA em conteúdo digital
+With a background in hospitality, events and sales, I bring a user-centric, structured and empathetic approach to technology.
+
+I am currently studying:
+- HTML, CSS and JavaScript
+- Website structure and microcopy
+- Practical applications of AI in digital content
 
 ---
 
-### 🚀 Projetos em destaque
+### 🚀 Featured projects
 
-- [KISs - Quiz Interativo](https://usercaroline.github.io/quizzes-html-css/index.html)  
+- [Interactive Quiz](https://usercaroline.github.io/quizzes-html-css/index.html)  
 - [TELA LOGIN FIGMA ](https://github.com/usercaroline/projeto-tela-login)  
-- [Correção de Copy – Segurança Social](https://github.com/usercaroline/projeto-seguranca-social)
+- [Copy correction – Social Security](https://github.com/usercaroline/projeto-seguranca-social)
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📫 Let's connect?
 
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square) (https://www.linkedin.com/in/caroline-eugenio-241690242)  
 
