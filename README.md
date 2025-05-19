@@ -28,7 +28,7 @@ Atualmente estudo:
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)] (https://www.linkedin.com/in/caroline-eugenio-241690242)  
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square) (https://www.linkedin.com/in/caroline-eugenio-241690242)  
 
 📧 contato.caroleugenio@gmail.com
 ---
